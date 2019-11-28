@@ -11,10 +11,10 @@ This implementation contains:
 	- to reduce the correlations between target and predicted Q-values
 
 Agent attention from my MPhil project on deep reinforcement learning!
-![]('Assets/breakout_game.gif')
+![](Assets/breakout_game.gif)
 
 How the agent learnt to focus through time!
-![]('Assets/breakout_training.gif')
+![](Assets/breakout_training.gif)
 
 ## Requirements
 - OpenAI gym
